@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE, tidy=TRUE, tidy.opts=list(width.cutoff=60))
 
 ## Overview
 
-This document contains replication code and a dataset (`SWChinaReplicationData.RData`, *Data S1*) to accompany the manuscript "Should I shoot or should I go? Simple rules for prey selection in indiscriminate harvesting systems" by [Charlotte H. Chang](https://charlottehchang.github.io) and Sarah E. Drohan.
+This document contains replication code and a dataset (`SWChinaReplicationData.RData`, *Data S1*) to accompany the manuscript "Should I shoot or should I go? Simple rules for prey selection in multi-species hunting systems" by [Charlotte H. Chang](https://charlottehchang.github.io) and Sarah E. Drohan.
 
 The central question addressed by this dataset is whether or not simple rules offered by optimal stopping problems can capture the lower bound on a trait of interest to hunters. In our case, the relevant trait is body mass. The bullet points below describe the dataset and the replication analyses performed in the script sections (a.k.a. `chunk`s) below.
 
